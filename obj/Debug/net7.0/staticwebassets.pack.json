@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "F:\\DynamicTime-TableGenerator\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DynamicTime-TableGenerator.bundle.scp.css",
-      "PackagePath": "staticwebassets\\DynamicTime-TableGenerator.bundle.scp.css"
+      "Id": "F:\\DynamicTime-TableGenerator\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DynamicTimeTableGenerator.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DynamicTimeTableGenerator.bundle.scp.css"
     },
     {
       "Id": "F:\\DynamicTime-TableGenerator\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DynamicTime-TableGenerator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DynamicTimeTableGenerator.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DynamicTime-TableGenerator.props",
-      "PackagePath": "build\\DynamicTime-TableGenerator.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DynamicTimeTableGenerator.props",
+      "PackagePath": "build\\DynamicTimeTableGenerator.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DynamicTime-TableGenerator.props",
-      "PackagePath": "buildMultiTargeting\\DynamicTime-TableGenerator.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DynamicTimeTableGenerator.props",
+      "PackagePath": "buildMultiTargeting\\DynamicTimeTableGenerator.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DynamicTime-TableGenerator.props",
-      "PackagePath": "buildTransitive\\DynamicTime-TableGenerator.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DynamicTimeTableGenerator.props",
+      "PackagePath": "buildTransitive\\DynamicTimeTableGenerator.props"
     }
   ],
   "ElementsToRemove": []

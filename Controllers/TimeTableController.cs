@@ -1,7 +1,7 @@
 ﻿using DynamicTime_TableGenerator.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DynamicTime_TableGenerator.Controllers
+namespace DynamicTimeTableGenerator
 {
     public class TimeTableController : Controller
     {

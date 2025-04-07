@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DynamicTime-TableGenerator\\DynamicTime-TableGenerator.csproj",
-      "projectName": "DynamicTime-TableGenerator",
-      "projectPath": "F:\\DynamicTime-TableGenerator\\DynamicTime-TableGenerator.csproj",
+      "projectUniqueName": "F:\\DynamicTime-TableGenerator\\DynamicTimeTableGenerator.csproj",
+      "projectName": "DynamicTimeTableGenerator",
+      "projectPath": "F:\\DynamicTime-TableGenerator\\DynamicTimeTableGenerator.csproj",
       "packagesPath": "C:\\Users\\om\\.nuget\\packages\\",
       "outputPath": "F:\\DynamicTime-TableGenerator\\obj\\",
       "projectStyle": "PackageReference",

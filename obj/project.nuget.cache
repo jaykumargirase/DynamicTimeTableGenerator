@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ei6lKMC3BbsZa0eI06jgAXE/tbuOSBmH3McP1wSCsvC9esXf5SSI1bpmxH/uF+IKsCBUuTfJtZ5WDPlqs1TAJw==",
+  "dgSpecHash": "lQR+f84zeiYvkQOWsUdPzQ7Pc9SQfpl/xGBhHCvyzMBJllcr8wAxO7VqJE3GAw/heHxIprNCodhnYSqbVeXkYg==",
   "success": true,
-  "projectFilePath": "F:\\DynamicTime-TableGenerator\\DynamicTime-TableGenerator.csproj",
+  "projectFilePath": "F:\\DynamicTime-TableGenerator\\DynamicTimeTableGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
