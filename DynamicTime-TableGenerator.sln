@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTime-TableGenerator", "DynamicTime-TableGenerator.csproj", "{4723422D-E3DA-436B-A66C-EA0D91ED31FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4723422D-E3DA-436B-A66C-EA0D91ED31FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4723422D-E3DA-436B-A66C-EA0D91ED31FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4723422D-E3DA-436B-A66C-EA0D91ED31FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4723422D-E3DA-436B-A66C-EA0D91ED31FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E98FEA-BF21-4EC0-A55A-A2853D45FBC7}
+	EndGlobalSection
+EndGlobal

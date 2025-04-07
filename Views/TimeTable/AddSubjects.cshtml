@@ -1,0 +1,53 @@
+﻿@model List<Subject>
+@{
+    var totalHours = ViewBag.TotalHours;
+}
+
+@*<h3>Total Hours: @totalHours</h3>
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}*@
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg rounded-4">
+                <div class="card-body">
+                    <h3 class="card-title text-center mb-4">Enter Subject Details</h3>
+                    <h5 class="text-muted text-center mb-4">Total Hours: <strong>@totalHours</strong></h5>
+
+                    @if (ViewBag.Error != null)
+                    {
+                        <div class="alert alert-danger text-center">
+                            @ViewBag.Error
+                        </div>
+                    }
+
+                    <form asp-action="AddSubjects" method="post">
+                        @for (int i = 0; i < Model.Count; i++)
+                        {
+                            <div class="mb-4 p-3 border rounded-3 bg-light">
+                                <h6 class="mb-3">Subject @(@i + 1)</h6>
+
+                                <div class="mb-3">
+                                    <label class="form-label">Subject Name:</label>
+                                    <input name="[@i].Name" class="form-control" placeholder="Enter subject name" required />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="form-label">Hours:</label>
+                                    <input name="[@i].Hours" type="number" min="1" class="form-control" placeholder="Enter hours" required />
+                                </div>
+                            </div>
+                        }
+
+                        <div class="text-center mt-4">
+                            <button type="submit" class="btn btn-success w-100">Generate Time Table</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
